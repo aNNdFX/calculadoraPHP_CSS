@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1 class = "titulo"> Calculadora Simples </h1>
-        <form method="GET" action="/calc-main/">
+        <form method="GET" action="/calculadoraPHP_CSS/">
             <div class="calculo">
         <label for="num1">Num1:</label><br>
             <input type="number" name="n1"><br>
